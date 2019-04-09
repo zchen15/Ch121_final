@@ -1,0 +1,22 @@
+Kalli Kappel, RNA protein docking
+https://www.sciencedirect.com/science/article/pii/S0969212618303629?via%3Dihub
+
+Cheng, FARNA assembly
+https://www.sciencedirect.com/science/article/pii/S0076687914000524
+
+PCA on molecular dynamics
+https://www3.mpibpc.mpg.de/groups/de_groot/compbio1/p4/index.html
+
+Compbio2 course
+https://www3.mpibpc.mpg.de/groups/de_groot/compbio2/
+
+Aquaporin simulation
+https://www3.mpibpc.mpg.de/groups/de_groot/compbio1/p5/index.html
+
+Cas9 coarse graining
+https://www.researchgate.net/publication/311561283_Probing_the_structural_dynamics_of_the_CRISPR-Cas9_RNA-guided_DNA-cleavage_system_by_coarse-grained_modeling
+
+cgmartini for coarse grain simulations
+http://cgmartini.nl/index.php/tutorials-general-introduction/proteins
+
+

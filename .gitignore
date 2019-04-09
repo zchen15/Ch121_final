@@ -1,0 +1,2 @@
+*.xtc # ignore trajectory files
+*.trr
